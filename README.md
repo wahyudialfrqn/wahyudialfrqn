@@ -1,7 +1,8 @@
 ![logo](https://github.com/wahyudialfrqn/wahyudialfrqn/blob/main/banner3.gif)
 <h3 align="center">I am Wahyudi Alfurqon, a student in the Informatics study program at MDP University. I have expertise in programming as a Junior Programmer and in design as a Junior UI/UX. With this background, I continue to strive to develop my abilities to create technological solutions that are both innovative and user-friendly.</h3>
 
-👨‍💻 All of my projects are available at [https://github.com/wahyudialfrqn](https://github.com/wahyudialfrqn)
+👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyudialfrqn)
+
 
 💬 Ask me about **UI/UX Designer, Mobile App, Web**
 
