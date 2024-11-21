@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahyudi Alfurqon</h1>
+![logo](https://github.com/wahyudialfrqn/wahyudialfrqn/blob/main/wahyudialfrqn_banner.png)
 <h3 align="center">I am Wahyudi Alfurqon, a student in the Informatics study program at MDP University. I have expertise in programming as a Junior Programmer and in design as a Junior UI/UX. With this background, I continue to strive to develop my abilities to create technological solutions that are both innovative and user-friendly.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyudialfrqn&label=Profile%20views&color=0e75b6&style=flat" alt="wahyudialfrqn" /> </p>
